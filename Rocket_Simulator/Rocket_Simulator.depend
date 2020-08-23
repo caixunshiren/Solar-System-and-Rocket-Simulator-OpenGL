@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1579117716 source:c:\users\caixu\onedrive\documents\c++_programs\opengl_report\rocket_simulator\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1576781993 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1576781998 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1576781975 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1576781988 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1576781987 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1576781977 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1576781977 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1576781976 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1576781988 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1576781995 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1576781996 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1576781975 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1576781977 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1576781980 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1576781983 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1576781984 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1576781985 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1576781990 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1576781990 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1576781975 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1576781990 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1576781990 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1576781991 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1576781978 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1576781992 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1576781988 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1576781976 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1576781994 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1576781986 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1576781998 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1576781990 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1576781990 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1576781997 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1576781985 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1576781987 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1576781986 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1576781993 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1576781986 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1576781975 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1576781987 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1576781987 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1576781986 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1576781987 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+976684920 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576782006 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1576782006 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
